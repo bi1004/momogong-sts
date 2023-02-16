@@ -33,7 +33,7 @@
 |  김솔진  | [https://github.com/noljis](https://github.com/noljis)   | 
 |  강소영  | [https://github.com/](https://github.com/)     | 
 |  박혜인  | [https://github.com/](https://github.com/) |
-|  이민지  | [https://github.com/]([https://github.com/](https://github.com/minddi00)) |
+|  이민지  | [https://github.com/minddi00]([https://github.com/](https://github.com/minddi00)) |
 |  이시현  | [https://github.com/](https://github.com/) |
-|  이신애  | [https://github.com/](https://github.com/alpapago) |
+|  이신애  | [https://github.com/alpapago](https://github.com/alpapago) |
 |  채은비  | [https://github.com/bi1004](https://github.com/bi1004) |
