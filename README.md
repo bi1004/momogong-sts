@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 
-## 팀원 소개
+## ❤️ 팀원 소개
 
 |   이름   |                        깃허브 주소                         | 
 | :------: | :--------------------------------------------------------: | 
