@@ -35,5 +35,4 @@
 |  박혜인  | [https://github.com/PHyeinP](https://github.com/PHyeinP) |
 |  이민지  | [https://github.com/minddi00](https://github.com/minddi00) |
 |  이시현  | [https://github.com/SIHYEONee](https://github.com/SIHYEONee) |
-|  이신애  | [https://github.com/alpapago](https://github.com/alpapago) |
 |  채은비  | [https://github.com/bi1004](https://github.com/bi1004) |
