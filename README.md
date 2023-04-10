@@ -1,5 +1,5 @@
 # ✏️ MOMOGONG(모모공) 
-![모모공](https://user-images.githubusercontent.com/103248831/219248209-940b3903-d80e-4abc-80d6-44059b1ff76b.png)
+![모모공](https://user-images.githubusercontent.com/103248831/219248209-940b3903-d80e-4abc-80d6-44059b1ff76b.png) <br>
 ## ✨프로젝트 소개
 👌 같은 공부 목적을 가진 사람들과 Study With me! <br>
 👌 온라인 스터디 플랫폼 MOMOGONG 입니다 ✏️
