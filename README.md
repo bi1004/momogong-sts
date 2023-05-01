@@ -33,8 +33,8 @@
 |   이름   |                        깃허브 주소                         | 
 | :------: | :--------------------------------------------------------: | 
 |  🌱 김솔진  | [https://github.com/noljis](https://github.com/noljis)   | 
-|  강소영  | [https://github.com/DvAit7](https://github.com/DvAit7)     | 
-|  박혜인  | [https://github.com/PHyeinP](https://github.com/PHyeinP) |
-|  이민지  | [https://github.com/minddi00](https://github.com/minddi00) |
+|  💭 강소영  | [https://github.com/DvAit7](https://github.com/DvAit7)     | 
+|  💭 박혜인  | [https://github.com/PHyeinP](https://github.com/PHyeinP) |
+|  💭 이민지  | [https://github.com/minddi00](https://github.com/minddi00) |
 |  🍋 이시현  | [https://github.com/SIHYEONee](https://github.com/SIHYEONee) |
 |  🐇 채은비  | [https://github.com/bi1004](https://github.com/bi1004) |
